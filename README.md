@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)
+[![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total)
 
 ![Capture](https://user-images.githubusercontent.com/73053972/132089327-4530314d-840f-452f-9d8d-00e0f3ac57c3.PNG)
 
