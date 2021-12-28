@@ -4,7 +4,7 @@
 
 ### Description.
 
-AppLauncher is a simple software that allows you to launch multiple DCC(`Digital Content Creation`) applications from single software.
+AppLauncher is a simple software that allows you to launch multiple DCC `Digital Content Creation` applications from single software.
 
 ### ScreenShot.
 
