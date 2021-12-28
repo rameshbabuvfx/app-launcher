@@ -14,7 +14,9 @@ AppLauncher is a simple software that allows you to launch multiple DCC(`Digital
 
 * Clone the [app-launcher](https://github.com/rameshbabuvfx/app-launcher) git repo.
 
-> * [ ] https://github.com/rameshbabuvfx/app-launcher.git
+```
+https://github.com/rameshbabuvfx/app-launcher.git
+```
 
 * Goto dist folder from your cloned repo you can find appLauncher.exe setup file.
 
