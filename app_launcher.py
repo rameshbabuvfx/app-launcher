@@ -27,14 +27,14 @@ class ApplauncherUI(QWidget):
         self.list_widget = QListWidget()
         self.list_widget.setSelectionMode(QAbstractItemView.NoSelection)
         self.list_widget.setStyleSheet("""
-        QScrollBar:vertical{
-        height: 25px;
-        width: 10px;
-        }
-        QScrollBar::handle {
-        background: grey;
-        border-radius: 5px;
-        }
+            QScrollBar:vertical{
+            height: 25px;
+            width: 10px;
+            }
+            QScrollBar::handle {
+            background: grey;
+            border-radius: 5px;
+            }
         """)
 
         self.setStyleSheet("background-color: rgb(180, 180, 180);")
@@ -43,9 +43,7 @@ class ApplauncherUI(QWidget):
         self.all_apps_list = os.listdir(self.app_source_path)
         self.dcc_installed_apps = dict()
         self.dcc_apps_list = (
-            "Nuke",
-            "Natron",
-            "Fusion",
+            "Nuke", "Natron", "Fusion",
         )
         self.get_dcc_apps_list()
         self.vlayout.addWidget(self.list_widget)

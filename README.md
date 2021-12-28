@@ -1,9 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total)
 
-![Capture](https://user-images.githubusercontent.com/73053972/132089327-4530314d-840f-452f-9d8d-00e0f3ac57c3.PNG)
+# VFX App Launcher
 
-# AppLauncher
+![applauncher1.png](./assets/app-launcher1.png)
 
-The Smart App Launcher allows you to access all DCC apps from a single app.
-![Screenshot 2021-09-04 143927](https://user-images.githubusercontent.com/73053972/132089334-3b337337-07ca-452e-94f8-c7b4fe025a92.png)
+
 
