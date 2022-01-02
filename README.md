@@ -1,10 +1,10 @@
 # AppLauncher
 
-[![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total) ![GitHub release (latest by date)](https://img.shields.io/badge/python-3.7+-green)
+[![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total)
 
 ### Description.
 
-AppLauncher is a simple software that allows you to launch multiple DCC `Digital Content Creation` applications from single software.
+AppLauncher is a simple software that allows you to launch multiple DCC(`Digital Content Creation`) applications from single software.
 
 ### ScreenShot.
 
